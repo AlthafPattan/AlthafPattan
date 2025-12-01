@@ -46,8 +46,8 @@ I share learnings about performance optimization, frontend architecture, and mod
 
 ## 📫 Get in Touch
 
-* **LinkedIn:** [https://linkedin.com/in/althafpattan](https://linkedin.com/in/althafpattan)
-* **Email:** [althafpattan@gmail.com](mailto:althafpattan@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/althaf-pattan-257963148/](https://www.linkedin.com/in/althaf-pattan-257963148/)
+* **Email:** [altafkhanx6@gmail.com](mailto:altafkhanx6@gmail.com)
 
 ---
 
